@@ -1,5 +1,7 @@
 # odin-recipes
-Recipe 
+
+#### A small recipe book website.
 - The Odin Project: [Lesson Link](https://www.theodinproject.com/lessons/foundations-recipes)
 
-#### Learning Outcomes
+##### Learning Outcomes
+- To be determined!
