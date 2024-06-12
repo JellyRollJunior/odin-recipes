@@ -1,0 +1,24 @@
+* {
+    font-family: "Monaco", Arial, sans-serif;
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1,
+.description {
+    color: tomato;
+}
+
+ul li,
+ol li {
+    color: darkcyan;
+}
+
+.contents {
+    color: black;
+}
